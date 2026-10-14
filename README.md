@@ -17,6 +17,14 @@ Repository setup is complete. The product scope and implementation will be defin
 - Node.js LTS
 - npm
 
+Verify the local toolchain with:
+
+```bash
+node --version
+npm --version
+git --version
+```
+
 ## Next Milestone
 
 Define the product problem, choose the application framework, and add the first
