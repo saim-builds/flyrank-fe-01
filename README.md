@@ -10,14 +10,18 @@ This repository is the starting point for my capstone project.
 
 ## Status
 
-Project setup is complete. The product scope and implementation will be defined next.
+Repository setup is complete. The product scope and implementation will be defined next.
 
-## Getting Started
+## Prerequisites
 
-```bash
-npm install
-npm run dev
-```
+- Node.js LTS
+- npm
+
+## Next Milestone
+
+Define the product problem, choose the application framework, and add the first
+working command to `package.json`. Setup instructions will be updated with the
+actual install and development commands in that milestone.
 
 ## License
 
